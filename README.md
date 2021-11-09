@@ -1,5 +1,5 @@
 # ebay-data-scraper
- ebay-dl.py
+
 
 ## What does this ebay-dl.py file do?
 This file scrapes the following data off of ebay item listings: name, price, status, shipping, free returns, and number sold. This is helpful for finding certain information in the listings of your choice.
